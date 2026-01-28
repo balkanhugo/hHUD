@@ -1,9 +1,8 @@
 fx_version "adamant"
 
-description "EyesStore"
-author "Raider#0101"
-version '1.0.0'
-repository 'https://discord.com/invite/EkwWvFS'
+description "Hugo Roleplay HUD"
+author "chiaroscuric"
+version '1.1.0'
 
 game "gta5"
 

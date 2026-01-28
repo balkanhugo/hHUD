@@ -1,0 +1,17 @@
+@import url("http://fonts.cdnfonts.com/css/akrobat");
+body {
+  overflow: hidden;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  align-items: center;
+  justify-content: center;
+}
+
+#app {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}/*# sourceMappingURL=app.css.map */
